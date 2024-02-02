@@ -1,0 +1,7 @@
+{
+  "products": [
+    { "sku": "de item", "name": "watever", "price": 9.99 },
+    { "sku": "de item 2", "name": "watever 2", "price": 19.99 },
+    { "sku": "de item 3", "name": "watever 3", "price": 29.99 }
+  ]
+}
